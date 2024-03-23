@@ -1,6 +1,9 @@
-hey will be scored like this:
+Note: The scores are just temporary numbers created by AstroDuck and an estimation with his won bias.
+
 Length, ( 3 letters are the lowest and 7 letters are highest. Best is around 5 letters)
-Ratings will be 1-5. easiness, Flexibility and Visual appeal. 
+Ratings will be 1-5. easiness, Flexibility and Visual appeal.
+
+System. 
 
 | Letter | Easiness | Flexibility | Visuals | Average Score |
 | ------ | -------- | ----------- | ------- | ------------- |
@@ -30,4 +33,3 @@ Ratings will be 1-5. easiness, Flexibility and Visual appeal.
 | X      | 1        | 3           | 4       | 2.67          |
 | Y      | 3        | 5           | 4       | 4             |
 | Z      | 2        | 4           | 5       | 3.67          |
-
