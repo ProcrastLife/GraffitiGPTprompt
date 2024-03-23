@@ -1,7 +1,6 @@
 Note: The scores are just temporary numbers created by AstroDuck and an estimation with his won bias.
 
-Length, ( 3 letters are the lowest and 7 letters are highest. Best is around 5 letters)
-Ratings will be 1-5. easiness, Flexibility and Visual appeal.
+Ratings will be 1-5. and based on three criterias:1. Easiness 2. Flexibility and variation 3. Visual appeal.
 
 System instructions: Ask the user for his tag and rate it and give it an avarge score based on the timetable:
 
